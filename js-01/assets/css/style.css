@@ -1,0 +1,16 @@
+.box {
+ height: 100px;
+ width: 100px
+}
+
+.red {
+  background-color: darkred;
+}
+
+.blue {
+  background-color: deepskyblue;
+}
+
+.green {
+  background-color: darkgreen;
+}
